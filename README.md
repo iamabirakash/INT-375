@@ -50,5 +50,5 @@ Data used in this project was collected from:
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/your-username/mgnrega-assam-analysis.git](https://github.com/iamabirakash/INT-375.git)
+git clone https://github.com/iamabirakash/INT-375.git
 cd mgnrega-assam-analysis
